@@ -6,7 +6,9 @@
 
 ## Tech Stack:
 Client: Tailwind CSS, React
+
 Database: Cloud Firestore
+
 Deployed on: Vercel
 
 [Live Application Link](https://react-todo-firebase-app.vercel.app/)
